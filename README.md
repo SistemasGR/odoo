@@ -1,0 +1,2 @@
+# odoo
+pruebas Odoo CE
